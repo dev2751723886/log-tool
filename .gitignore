@@ -1,0 +1,6 @@
+debug/
+release/
+Makefile*
+*.stash
+*.user
+object_script*
